@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+:root {
+  background-image: url("./img/CalendarBackground.jpg");
+}
+
+body {
+  margin-left: 90px;
+  margin-right: 90px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.font1 { /* coś jak przyjaciele */
+  font-family: 'Permanent Marker', cursive;
+}
+
+.font2 { /* dawne listy z maszyny do pisania */
+  font-family: 'Special Elite', cursive;
+}
+
+.font3 { /* packman */
+  font-family: 'Press Start 2P', cursive;
+}
+
+.title {
+  text-align: center;
+  font-size: 50px;
+}
